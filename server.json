@@ -1,0 +1,10 @@
+{
+    "tinhdeeptry": {
+        "type": "api",
+        "url": "http://103.178.234.71:1000/api/check_key?key={key}&software_type={software_type}"
+    },
+    "min": {
+        "type": "api",
+        "url": "http://103.178.234.71:1000/api/check_key?key={key}&software_type={software_type}"
+    }
+}
